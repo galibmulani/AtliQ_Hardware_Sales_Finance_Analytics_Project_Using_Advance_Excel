@@ -1,0 +1,2 @@
+# AtliQ_Hardware_Sales_Finance_Analytics_Project_Using_Advance_Excel
+Advance Excel Sales &amp; Finance Analytics Project
