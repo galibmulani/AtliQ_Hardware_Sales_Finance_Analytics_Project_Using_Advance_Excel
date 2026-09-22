@@ -498,20 +498,10 @@ sales-finance-analytics-excel/
 │
 ├── README.md
 │
-├── data/
-│
-├── excel/
-│   └── screenshots/
-│       ├── sales_report.png
-│       └── finance_report.png
-│
-├── power_query/
-│
-├── power_pivot/
-│
-├── reports/
-│
-└── insights/
+├── Documents/
+        ├── sales_report.pdf
+        └── finance_report.pdf
+        ├──  ...
 ```
 
 ---
