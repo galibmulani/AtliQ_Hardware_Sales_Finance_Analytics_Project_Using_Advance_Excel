@@ -1,2 +1,2 @@
-# AtliQ_Hardware_Sales_Finance_Analytics_Project_Using_Advance_Excel
+# AtliQ Hardware Sales & Finance Analytics Project Using Advance Excel
 Advance Excel Sales &amp; Finance Analytics Project
