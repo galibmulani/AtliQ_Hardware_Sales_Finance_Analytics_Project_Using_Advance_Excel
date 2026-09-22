@@ -129,6 +129,8 @@ Power Query was used to prepare the raw datasets for analysis.
 
 Power Pivot was used to create relationships between fact and dimension tables.
 
+![data model](./Documents/data_model.png)
+
 ### Sales Analytics
 
 **Dimensions**
@@ -205,6 +207,8 @@ The `dim_date` table includes:
 
 Sales growth was broad-based across the customer portfolio, while a relatively small number of large customers contributed significantly to total sales.
 
+[customer sales performance](./Documents/1.Customer_net_sales_performance.pdf)
+
 ---
 
 # 2. Market Performance vs Target
@@ -252,6 +256,8 @@ By percentage shortfall:
 
 Strong YoY growth did not necessarily translate into target achievement. This suggests the business should investigate the drivers behind the target gaps at the **customer, product, channel, and market levels**.
 
+[market performance vs targets](./Documents/2_Market_Performance_Vs_Targets.pdf.pdf)
+
 ---
 
 # 3. Top Products by Growth
@@ -268,6 +274,8 @@ Strong YoY growth did not necessarily translate into target achievement. This su
 
 Some products combine **high absolute sales with high growth**, while other products show very high percentage growth because of a low FY2020 starting base.
 
+[top 5 product growth](./Documents/3_Top_5_Products_Growth_Report.pdf.pdf)
+
 ---
 
 # 4. Product Quantity Analysis
@@ -283,6 +291,8 @@ Some products combine **high absolute sales with high growth**, while other prod
 ### Business Observation
 
 The large difference between high- and low-volume products suggests an opportunity to investigate **product demand, pricing, promotion, product positioning, and portfolio rationalization**.
+
+[product qty analysis](./Documents/5_Top_5_Products_Bottom_5_Qty_Sold.pdf)
 
 ---
 
@@ -306,6 +316,8 @@ The top five launches contributed approximately **54% of new-product volume**.
 
 New-product performance was concentrated among a few launches, particularly the **AQ Qwerty and AQ Trigger families**.
 
+[new product in 2021](./Documents/6_new_products_2021.pdf)
+
 ---
 
 # 6. Top Markets by FY2021 Sales
@@ -313,6 +325,8 @@ New-product performance was concentrated among a few launches, particularly the 
 India, USA, South Korea, Canada, and the United Kingdom were the largest markets by FY2021 sales.
 
 India and USA together contributed approximately **67.8% of the sales volume among these five markets**, highlighting the importance of these markets to overall performance.
+
+[top 5 countries in 2021](./Documents/7_Top_5_Country_in_2021.pdf)
 
 ---
 
@@ -333,6 +347,8 @@ AtliQ achieved strong revenue growth, but the declining GM% indicates that maint
 
 > **Note:** GM% represents gross profitability and does not include operating expenses, depreciation, interest, taxes, or other indirect costs.
 
+[p & l by fy](./Documents/2.1_P&L_By_Fiscal_Year.pdf.pdf)
+
 ---
 
 # 2. Monthly Profit & Loss Analysis
@@ -347,6 +363,8 @@ AtliQ achieved strong revenue growth, but the declining GM% indicates that maint
 ### Business Observation
 
 The combination of strong sales growth and declining GM% suggests that AtliQ should monitor **product costs, pricing, freight, manufacturing costs, and product mix**.
+
+[p & l by months](./Documents/2.2_P&L_By_Months.pdf)
 
 ---
 
@@ -397,6 +415,9 @@ Further investigation could focus on:
 
 This can help identify the underlying drivers of lower gross margins.
 
+
+[p & l by markets](./Documents/2.3_P&L_By_Markets.pdf)
+
 ---
 
 # 4. Gross Margin % by Sub-Zone
@@ -438,19 +459,11 @@ India remained the lowest-margin sub-zone, while SE recorded the highest GM%.
 
 India's GM% declined from **42.4% in FY2019 to 32.0% in FY2021**, while ANZ declined from **42.6% to 38.3%**. These changes indicate areas where product mix, pricing, and cost structure could be investigated further.
 
----
 
-# 📊 Reports
-
-## Sales Report
-
-![Sales Report](excel/screenshots/sales_report.png)
-
-## Finance Report
-
-![Finance Report](excel/screenshots/finance_report.png)
+[p & l by gm% by quarters](./Documents/2.4_P&L_By_GM%25_By_Quarters.pdf)
 
 ---
+
 
 # 💡 Key Business Takeaways
 
